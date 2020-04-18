@@ -9,7 +9,7 @@ Its as simple as download `fancontrol.sh` from the master and run it using ./pat
 You can also modify your /etc/bash.bashrc to start this on boot. It shouldn't require root privelages. 
 
 # How to configure:
-`There are a minimum `-ge` and maximum `-le` temperature for each level of fan speed. The lowest is level 0 with no fan. The maximum fan speed is level 7, critical speed. The temperature is measured in celsius. 
+There are a minimum `-ge` and maximum `-le` temperature for each level of fan speed. The lowest is level 0 with no fan. The maximum fan speed is level 7, critical speed. The temperature is measured in celsius. 
 
 # Additional notes:
 This has only ever been tested on one older thinkpad, the T420s. So your mileage may vary depending on your model and when it was released. 
