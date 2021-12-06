@@ -6,7 +6,9 @@ I have *only* tested this on a Thinkpad T420s, but it should work on most older 
 
 # Installation:
 `git clone https://github.com/aaron-dev-git/thinkpad-fan-control`
+
 `cd thinkpad-fan-control`
+
 `chmod +x fancontrol.sh`
 
 You can also modify your /etc/bash.bashrc to start this on boot. It does require root. 
